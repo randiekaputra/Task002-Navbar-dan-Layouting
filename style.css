@@ -2,6 +2,7 @@ body{
     margin: 0;
 }
 
+/* navbar */
 nav {
     font-family: Arial, sans-serif;
     font-size: large;
@@ -54,6 +55,7 @@ nav {
     -o-border-radius: 13px;
 }
 
+/* card */
 .card {
     font-family: arial, sans-serif;
     font-size: 15px;
